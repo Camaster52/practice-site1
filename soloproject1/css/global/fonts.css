@@ -1,0 +1,13 @@
+
+
+
+
+
+@font-face {
+    font-family: "myRoboto";
+    src: url("../../fonts/AnyConv.com__Roboto-VariableFont_wdth,wght.woff2") format("woff2"),
+    url("../../fonts/AnyConv.com__Roboto-VariableFont_wdth,wght.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
